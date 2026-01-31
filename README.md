@@ -21,6 +21,8 @@ This is a learning and research repository focused on the **GStreamer** multimed
 
 The repository will be continuously updated and improved as my learning progresses. Click to jump to the changelog to view the latest content. - [Changelog](./CHANGELOG.md)
 
+This repository is mainly conducted in Chinese. The English version is updated late and the translation is not accurate enough. It is recommended to follow the Chinese version.
+
 ----
 
 ## 🗂️ Repository Structure
